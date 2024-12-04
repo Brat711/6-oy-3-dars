@@ -1,0 +1,64 @@
+#seconds {
+    border-radius: 9px;
+    width: 221px;
+    padding: 55px 45px 80pxx 62px;
+    box-shadow: 8px 9px 22px 1px rgba(0, 0, 0, 0.6);
+    background: rgba(5, 5, 5, 0.9);
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 109px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 32px 0;
+}
+
+body {
+    backdrop-filter: blur(0px);
+    background: rgb(255, 205, 56);
+}
+
+.cloock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 57px;
+    margin-top: 260px;
+    background-color: rgb(237, 163, 53);
+    width: 850px;
+    height: 300px;
+    margin: 200px auto;
+}
+
+#hours {
+    border-radius: 9px;
+    width: 221px;
+    padding: 55px 45px 80pxx 62px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 109px;
+    letter-spacing: 0%;
+    text-align: center;
+    box-shadow: 8px 9px 22px 1px rgba(0, 0, 0, 0.6);
+    background: rgba(5, 5, 5, 0.9);
+    margin: 32px 0;
+}
+
+#minutes {
+    border-radius: 9px;
+    width: 221px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 90px;
+    padding: 55px 45px 80pxx 62px;
+    font-weight: 400;
+    line-height: 109px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 32px 0;
+    box-shadow: 8px 9px 22px 1px rgba(0, 0, 0, 0.6);
+    background: rgba(5, 5, 5, 0.9);
+}
